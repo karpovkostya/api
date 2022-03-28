@@ -763,6 +763,10 @@
 	               "type":"integer",
 	               "format":"int64"
 	            },
+	            "parentId":{
+	               "type":"integer",
+	               "format":"int64"
+	            },			 
 	            "name":{
 	               "type":"string"
 	            },
@@ -777,11 +781,7 @@
 	            "id":{
 	               "type":"integer",
 	               "format":"int64"
-	            },
-	            "parentId":{
-	               "type":"integer",
-	               "format":"int64"
-	            },			 
+	            },		 
 	            "name":{
 	               "type":"string"
 	            }	                     

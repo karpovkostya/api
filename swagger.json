@@ -131,6 +131,12 @@
 				],
 				"parameters": [  
 	               {
+	                  "name":"name",
+	                  "description":"",
+	                  "required":false,
+	                  "type":"string"
+	               },					
+	               {
 	                  "name":"latitude",
 	                  "description":"",
 	                  "required":false,
